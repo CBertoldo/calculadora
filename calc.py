@@ -59,3 +59,5 @@ while  True: #Interação com o usuário
     
     if sair is True:
         break
+
+    
